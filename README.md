@@ -1,2 +1,2 @@
-# Hello-world-C-
-Este programa apresenta Hello World na tela  utilizando dos comandos presentes na biblioteca iostream.
+# Utilizando_laço_For_ C++
+Este repertório contem os exercícios em C++ estudados em linguagem de programação.
